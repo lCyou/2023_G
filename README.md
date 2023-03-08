@@ -1,4 +1,3 @@
-# KC3Hack 2023 開発リポジトリ
 
 <img src="https://kc3.me/cms/wp-content/uploads/2023/01/top-banner.png" width="700px">
 
